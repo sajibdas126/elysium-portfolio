@@ -70,7 +70,7 @@ const About: React.FC = () => {
           <div className="pt-8">
             <button className="flex items-center gap-4 group">
               <span className="text-xs font-bold tracking-widest uppercase border-b border-primary/40 pb-1 group-hover:border-primary transition-all">
-                Read My Story
+                Read My Story.
               </span>
               <div className="w-12 h-12 rounded-full border border-white/10 flex items-center justify-center group-hover:bg-primary group-hover:text-dark transition-all duration-300">
                 <svg className="w-5 h-5 -rotate-45" fill="none" viewBox="0 0 24 24" stroke="currentColor">

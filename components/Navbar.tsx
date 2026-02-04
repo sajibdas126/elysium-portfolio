@@ -37,7 +37,11 @@ const Navbar: React.FC = () => {
         ))}
       </div>
 
-      <button className="px-6 py-2 rounded-full border border-white/20 hover:border-primary/50 text-xs font-bold tracking-widest uppercase transition-all hover:bg-primary/5">
+      <button
+       onClick={() => window.open("/img/Resume (2).pdf", "_blank")}
+         
+      className="px-6 py-2 rounded-full border border-white/20 hover:border-primary/50 text-xs font-bold tracking-widest uppercase transition-all hover:bg-primary/5"
+      >
         Resume
       </button>
     </nav>
