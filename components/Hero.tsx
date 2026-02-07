@@ -49,7 +49,7 @@ const Hero: React.FC = () => {
 
       <div className="text-center max-w-5xl z-10">
         <h2 className="text-primary text-xs md:text-sm tracking-[0.4em] uppercase mb-8 opacity-60">
-          Digital Architect — Based in Tokyo
+          Digital Architect  Based in Tokyo
         </h2>
 
         <h1 
