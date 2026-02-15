@@ -84,7 +84,7 @@ const Contact: React.FC = () => {
             >
               <div className="absolute inset-0 bg-white scale-0 group-hover:scale-100 transition-transform duration-500 rounded-full" />
               <span className="relative z-10 font-bold text-xs tracking-[0.3em] uppercase text-center group-hover:text-dark transition-colors duration-300">
-                Send <br /> Message
+                Send <br/>Message
               </span>
             </button>
           </div>
