@@ -19,9 +19,9 @@ const Navbar: React.FC = () => {
     >
       <div className="flex items-center gap-2 group cursor-pointer">
         <div className="w-8 h-8 rounded-lg bg-primary/20 flex items-center justify-center text-primary group-hover:rotate-90 transition-transform duration-500">
-          <span className="font-bold text-lg leading-none">A</span>
+          <span className="font-bold text-lg leading-none">S</span>
         </div>
-        <span className="font-bold text-xl tracking-tighter">ALEX.DEV</span>
+        <span className="font-bold text-xl tracking-tighter">SAJIB.DEV</span>
       </div>
 
       <div className="hidden md:flex items-center gap-10">

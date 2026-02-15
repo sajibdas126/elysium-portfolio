@@ -77,7 +77,7 @@ const App: React.FC = () => {
           </main>
           <footer className="py-10 text-center border-t border-white/5 bg-dark">
             <p className="text-white/30 text-xs tracking-widest uppercase">
-              © 2024 Alex Design. Crafted with motion.
+              © 2024 Sajib Design. Crafted with motion.
             </p>
           </footer>
         </>
