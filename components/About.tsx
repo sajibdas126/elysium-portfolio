@@ -40,7 +40,7 @@ const About: React.FC = () => {
           className="relative aspect-[4/5] md:aspect-square bg-white/5 overflow-hidden rounded-2xl group"
         >
           <img 
-            src="https://picsum.photos/1200/1500" 
+            src="https://i.postimg.cc/m2b8mX7q/Chat-GPT-Image-Jun-8-2026-10-37-50-PM.png" 
             alt="Profile" 
             className="w-full h-full object-cover grayscale brightness-75 group-hover:scale-110 group-hover:grayscale-0 transition-all duration-1000 ease-out"
           />
@@ -55,7 +55,7 @@ const About: React.FC = () => {
             Design isn't just how it looks, it's how it <span className="not-italic text-white/50">moves</span>.
           </h3>
           <p className="text-white/60 text-lg md:text-xl font-light leading-relaxed max-w-xl">
-            With over 6 years of experience in the creative tech space, I've worked with global brands to translate their visions into high-fidelity digital products. I specialize in merging technical proficiency with creative intuition.
+           I craft modern, user-focused web applications using React.js and JavaScript, combining clean layouts, thoughtful typography, and smooth interactions. Every interface is designed to deliver aesthetic appeal and seamless usability for fast, responsive user experiences across devices.
           </p>
           <div className="grid grid-cols-2 gap-8 pt-8">
             <div>
